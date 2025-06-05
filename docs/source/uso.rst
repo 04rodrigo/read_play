@@ -1,9 +1,11 @@
+
+.. image:: imagenes/obervación.png
+
+
+
 Uso de la aplicacion educativa
 
 -------------------------------
-
-
-.. image:: imagenes/obervación.png
    
 
 
