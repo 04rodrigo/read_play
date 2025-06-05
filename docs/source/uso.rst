@@ -1,5 +1,5 @@
 
-.. image:: imagenes/imagen2.jpeg
+.. image:: imagenes/imagen2.jpg
 
 
 
