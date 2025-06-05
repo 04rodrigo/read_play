@@ -2,8 +2,7 @@
 Introducción
 ------------
 
-
-.. image:: imagenes/imagen 1.jpeg
+.. image:: ../../../imagenes/imagen1.jpeg
    :alt: introduccion
    :width: 400px
    :align: center
