@@ -1,3 +1,9 @@
+.. image:: imagenes/imagen 1.jpeg
+   :alt: introduccion
+   :width: 400px
+   :align: center
+
+
 Introducción
 ------------
 
@@ -7,7 +13,4 @@ caracteristica:
 -facil de usar
 -compatible con visual code
 
-.. image:: imagenes/imagen 1.jpeg
-   :alt: introduccion
-   :width: 500px
 
