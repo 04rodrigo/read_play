@@ -3,7 +3,7 @@ Uso de la aplicacion educativa
 -------------------------------
 
 
-.. image:: imagenes/obervacion.png
+.. image:: imagenes/obervación.png
    
 
 
