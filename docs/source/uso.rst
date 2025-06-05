@@ -1,5 +1,5 @@
 
-.. image:: imagenes/obervacion.png
+.. image:: imagenes/imagen2.jpeg
 
 
 
