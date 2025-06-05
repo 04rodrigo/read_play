@@ -2,9 +2,9 @@
 Introducción
 ------------
 
-.. image:: ../../../imagenes/imagen1.jpeg
-   :width: 400px
-   :align: center
+.. image::imagenes/imagen1.jpeg
+   : introduccion
+   : 500px
 
 Este video juego tiene como objetivo mejorar el aprendizaje
 
