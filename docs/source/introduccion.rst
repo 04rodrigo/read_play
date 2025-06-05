@@ -7,5 +7,7 @@ caracteristica:
 -facil de usar
 -compatible con visual code
 
+.. image:: imagenes/imagen 1.jpeg
+   :alt: introduccion
+   :width: 500px
 
-imagen 1.jpeg
